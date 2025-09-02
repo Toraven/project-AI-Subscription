@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../Desktop/AI/VSCode"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"editor.fontSize": 14
+	}
+}
